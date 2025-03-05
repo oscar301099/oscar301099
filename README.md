@@ -7,7 +7,7 @@
 ## 📌 About Me:
 - 🎓 Ing Sistemas.
 - 💻 Currently working on Next.js and laravel .
-- 💬 Ask me about web development using react.js ,Next.js or Laravel.
+- 💬 Ask me about web development using react ,Next.js or Laravel.
 
 ## 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
