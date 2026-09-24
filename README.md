@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Oscar Oros Duran
 
-🚀 Full Stack Developer building web apps and AI-powered automation.
+Full Stack Developer building web apps and AI-powered automation.
 
-## 📌 About Me
-- 🎓 Systems Engineer — Universidad Autónoma Gabriel René Moreno
-- 💻 Full Stack experience across React/Next.js, .NET/C#, Python and SQL Server
-- 🤖 Recently focused on automation & AI integration (Azure Document AI, n8n, Python)
-- 🔭 Currently looking for new opportunities as a Backend / Full Stack Developer
-- 💬 Ask me about React, Next.js, .NET or AI-driven automation
+##  About Me
+-  Systems Engineer — Universidad Autónoma Gabriel René Moreno
+-  Full Stack experience across React/Next.js, .NET/C#, Python and SQL Server
+-  Recently focused on automation & AI integration (Azure Document AI, n8n, Python)
+-  Currently looking for new opportunities as a Backend / Full Stack Developer
+-  Ask me about React, Next.js, .NET or AI-driven automation
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,11 +23,11 @@
 
 <!-- Agrega Laravel/Vue aquí solo si tienes experiencia real que lo respalde -- hoy no aparece en tu CV -->
 
-## 📜 Certifications
+##  Certifications
 - Data Analyst in Python — DataCamp
 - Associate Data Analyst in SQL — DataCamp
 - Associate Data Engineer in SQL — DataCamp
 
-## 📫 Contact Me
+##  Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-oros-duran-02b815244/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oros.duran.oscar@gmail.com)
